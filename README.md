@@ -1,4 +1,4 @@
-# Rust-Aula-Udemy
+# Rust-Chat-Client-Server
 Chat app criado no curso de Rust (https://www.udemy.com/course/rustaceans) que fiz no Udemy
 
 ## Executando o Server
